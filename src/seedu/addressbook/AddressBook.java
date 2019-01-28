@@ -234,6 +234,11 @@ public class AddressBook {
         showToUser(result, DIVIDER);
     }
 
+    private static void doNothing() {
+
+
+    }
+
     /*
      * NOTE : =============================================================
      * Parameter description can be omitted from the method header comment
